@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/sariDeniz/CHECKPOINT/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/sariDeniz/CHECKPOINT/Scenes/cutScene1.unity
+    guid: 22afc3f05ea3ab241b7e794673fd3be4
+  - enabled: 1
+    path: Assets/orman/02 orman denemesi.unity
+    guid: 35fffeb07af12a04583e46bc07309cf9
+  - enabled: 1
+    path: Assets/sariDeniz/CHECKPOINT/Scenes/cutScene2.unity
+    guid: 1df7b245df686864f9995eed4ba48cab
+  - enabled: 1
+    path: "Assets/sariDeniz/CHECKPOINT/sariDeniz/DEN\u0130Z.unity"
+    guid: 0e15d1f3a654cb84c9a6d29dc8104c35
+  - enabled: 1
+    path: Assets/sariDeniz/CHECKPOINT/Scenes/cutScene3.unity
+    guid: c028d040bcbc17c438adff00931b7e22
+  - enabled: 1
+    path: Assets/bossFightReal/bossFight.unity
+    guid: d0a729ea42e6c1142b91236ed73c7aa4
+  - enabled: 1
+    path: Assets/sariDeniz/CHECKPOINT/Scenes/CutScene4.unity
+    guid: 657356cc5e967a647af642304c710795
+  m_configObjects: {}
